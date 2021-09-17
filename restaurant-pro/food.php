@@ -4,9 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Restaurant</title>
-
-    <link rel="stylesheet" href="css/style-home.css">
+    <title>Food</title>
+    <link rel="stylesheet" href="css/style-food.css">
 </head>
 <body>
     <!-- Logo and menu start here -->
@@ -42,8 +41,8 @@
     </section>
     <!-- Logo and menu end here -->
 
-    <!-- Search start here -->
-    <section class = "food-search">
+     <!-- Search start here -->
+     <section class = "food-search">
         <div class ="container">
            <form action="">
                <center><input type="search" name = "search" placeholder = "Search for Food...">
@@ -53,38 +52,8 @@
         </div>
     </section>
     <!-- Search end here -->
-
-    <!-- Explore food  start here -->
-    <section class = "ex-food">
-        <div class = "container ">
-        <div class = "explore-food">
-            <center><strong>Explore Foods</strong></center>
-
-        </div>
-
-        <div class = "ex-box float-container">
-           <img src="images/pizza.jpg" alt="Pizza" class = "img-responsive img-curve">
-            <h3 class = "float-text">Pizza</h3>
-        </div>
-
-        <div class = "ex-box float-container">
-            <img src="images/burger.jpg" alt="Burger" class = "img-responsive img-curve">
-            <h3 class = "float-text">Burger</h3>
-
-        </div>
-
-        <div class = "ex-box float-container">
-            <img src="images/momo.jpg" alt="Momo" class = "img-responsive img-curve">
-            <h3 class = "float-text">Momo</h3>
-
-        </div>
-        <div class = "clearfix"></div>
-        </div>
-    </section>
-    <!-- Explore food end here -->
-
-    <!-- Food menu start here -->
-    <section class = "food-menu">
+  <!-- Food menu start here -->
+  <section class = "food-menu">
          <div class = "container ">
             <div class = "food-me">
                 <strong><center>Food Menu</center></strong>
@@ -173,13 +142,7 @@
                 </div>
                 <div class = "clearfix"></div>
             </div>
-
-            <div class = "me-footer">
-                <a href="order.php" class ="content">See All Foods</a>
-               
-                <div class = "clearfix"></div>
-            </div>
-            
+            <div class ="clearfix"></div>
             </div>
 
     </section>
