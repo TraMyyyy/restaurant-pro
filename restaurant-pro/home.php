@@ -175,9 +175,8 @@
             </div>
 
             <div class = "me-footer">
-                <div>
-                <a href="#"><center>See All Foods</center></a>
-                </div>
+                <a href="#" class ="content">See All Foods</a>
+               
                 <div class = "clearfix"></div>
             </div>
             
@@ -191,13 +190,19 @@
         <div class = "container ">
         <ul>
            <li>
-               <a href="#" >Facebook</a>
+               <a href="#" >
+                   <img src="images/facebook.png" alt="">
+                </a>
             </li>
         <li>
-               <a href="#" >Instagram</a>
+               <a href="#" >
+                   <img src="images/instagram.png" alt="">
+               </a>
             </li>
         <li>
-               <a href="#" >Twitter</a>
+               <a href="#" >
+                   <img src="images/twitter.png" alt="">
+               </a>
             </li>
             
         </ul>

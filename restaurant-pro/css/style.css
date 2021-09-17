@@ -13,7 +13,7 @@ a:hover{
     color: pink;
 }
 .container{
-    border: 1px solid black;
+   
     width: 80%;
     margin: 0 auto;
     padding: 1%;
@@ -110,7 +110,8 @@ h4{
 /* Explore foods */
 .explore-food{
     font-size: 2rem;
-    padding: 2% 0;
+    padding-bottom: 3%;
+    padding-top: 4%;
 }
 
 .ex-box{
@@ -118,6 +119,7 @@ h4{
     float: left;
     display: inline;
     margin: 2%;
+
 
 }
 
@@ -164,7 +166,21 @@ h4{
     margin: 1% 0;
 }
 
-.me-footer{
-    color: palevioletred;
+
+.content{
+    
+    width: 20%;
+    height: 10px;
     font-size: 1rem;
+    margin-left: 45%;
+}
+/* Social */
+.social ul{
+    list-style-type: none;
+    margin-left: 42%;
+}
+
+.social ul li{
+    display: inline;
+    margin: 1%;
 }
