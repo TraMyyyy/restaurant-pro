@@ -63,19 +63,25 @@
         </div>
 
         <div class = "ex-box float-container">
-           <img src="images/pizza.jpg" alt="Pizza" class = "img-responsive img-curve">
-            <h3 class = "float-text">Pizza</h3>
+        <a href="#">
+                    <img src="images/pizza.jpg" alt="" class = "img-responsive img-curve">
+                <h3 class ="float-text">Pizza</h3>
+                </a>
         </div>
 
         <div class = "ex-box float-container">
+        <a href="#">
             <img src="images/burger.jpg" alt="Burger" class = "img-responsive img-curve">
             <h3 class = "float-text">Burger</h3>
+            </a>
 
         </div>
 
         <div class = "ex-box float-container">
+        <a href="#">
             <img src="images/momo.jpg" alt="Momo" class = "img-responsive img-curve">
             <h3 class = "float-text">Momo</h3>
+            </a>
 
         </div>
         <div class = "clearfix"></div>
@@ -99,7 +105,7 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -113,7 +119,7 @@
                     <p class = "food-price">$1.9</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -127,7 +133,7 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -155,7 +161,7 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -169,13 +175,13 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
 
             <div class = "me-footer">
-                <a href="order.php" class ="content">See All Foods</a>
+                <a href="food.php" class ="content">See All Foods</a>
                
                 <div class = "clearfix"></div>
             </div>

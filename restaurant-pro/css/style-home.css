@@ -11,6 +11,7 @@ a{
 }
 a:hover{
     color: pink;
+    opacity: 0.6;
 }
 .container{
     width: 80%;
@@ -79,7 +80,7 @@ h4{
 
 /* Menu */
 .menu{
-    line-height: 60px;
+    line-height: 80px;
 }
 .menu ul{
     list-style-type: none;
@@ -119,9 +120,8 @@ h4{
     float: left;
     display: inline;
     margin: 2%;
-
-
 }
+
 
 /* Food menu */
 .food-menu{

@@ -68,7 +68,7 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -82,7 +82,7 @@
                     <p class = "food-price">$1.9</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -96,7 +96,7 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -110,7 +110,7 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -124,7 +124,7 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>
@@ -138,7 +138,7 @@
                     <p class = "food-price">$2.3</p>
                     <p class ="food-detail">Made with Italian Sauce, Chicken and organic vegetable...</p>
 
-                    <a href="#" class = "btn btn-primary">Order Now</a>
+                    <a href="order.php" class = "btn btn-primary">Order Now</a>
                 </div>
                 <div class = "clearfix"></div>
             </div>

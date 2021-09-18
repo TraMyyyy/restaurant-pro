@@ -56,7 +56,7 @@
                     <h4>Food Title</h4>
                     <p class = "food-price">$2.3</p>
                     <h5>Quantity:</h5>
-                    <input type="number" name = "number" value= "1">
+                    <input type="number" name = "number" value= "1" min="1">
             </div>
                 <div class ="clearfix"></div>
             </div>
@@ -67,9 +67,9 @@
                     <h5>Full name:</h5>
                     <input type="text" name ="full-name" placeholder = "Ex: Nguyen Van A">
                     <h5>Phone number:</h5>
-                    <input type="text" name ="phone-number" placeholder = "Ex: 012345678">
+                    <input type="tel" name ="phone-number" placeholder = "Ex: 012345678">
                     <h5>Email:</h5>
-                    <input type="text" name ="email" placeholder = "Ex: nguyenvana@gmail.com">
+                    <input type="email" name ="email" placeholder = "Ex: nguyenvana@gmail.com">
                     <h5>Address:</h5>
                     <textarea type="text" name ="address" placeholder = "Ex: Street, City, Country..." ></textarea>
                     
