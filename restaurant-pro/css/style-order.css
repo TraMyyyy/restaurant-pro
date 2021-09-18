@@ -21,7 +21,9 @@ a:hover{
 .text-right{
     text-align: right;
 }
-
+h1{
+    color: white;
+}
 h4{
     margin: 1% 0;
     font-size: 1.2rem;
@@ -75,8 +77,21 @@ input{
     border: none;
     border-radius: 3px;
     height: 1.3rem;
+    text-align: left;
 }
 
+fieldset{
+    border: 1px solid white;
+    width: 40%;
+    float: left;
+    margin: 2%;
+    margin-left: 30%;
+    padding-bottom: 1%;
+}
+
+legend{
+    margin-left: 3%;
+}
 /* Logo */
 .logo{
     width: 10%;
@@ -110,14 +125,6 @@ input{
     padding: 20%;
 }
 
-.selected-food{
-   border: 1px solid white;
-   width: 40%;
-   float: left;
-   margin: 2%;
-   margin-left: 30%;
-}
-
 .food-images{
     width: 20%;
     float: left;
@@ -136,8 +143,10 @@ input{
     margin: 1% 0;
 }
 
-.selected-food input{
+.selected-food{
+    border: none;
     width: 105%;
+    padding-left: 1%;
 }
 .deli-detail{
     border: 1px solid white;
@@ -153,21 +162,25 @@ input{
     margin: 3% 2% 3% 3%;
 }
 .info input{
-    width: 100%;
+    width: 99%;
     color: grey;
+    padding-left: 1%;
 }
 
 .info textarea{
-    width: 100%;
+    width: 99%;
     height: 4rem;
     resize: none;
     border-radius: 3px;
     border: none;
+    padding-left: 1%;
 }
 
 .details input{
     height: 1.5rem;
 }
+
+
 /* Social */
 .social ul{
     list-style-type: none;
